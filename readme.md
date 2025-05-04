@@ -18,7 +18,7 @@ Dataset Size: 1M+ records
 
 📁 Dataset Overview 
 
-             Mainly Used Columns: 
+Mainly Used Columns
 
 booking_id, booking_date 
 
@@ -47,6 +47,7 @@ Vehicle Performance – What vehicle types perform best based on value, distance
 High-Value Loss – Which high-value rides were cancelled? 
 
 Cumulative Revenue – What’s the running total revenue over time? 
+
 
  
 
