@@ -20,17 +20,17 @@ Rydan Bike Taxi - Data Analysis & Dashboard
 
 📁 Dataset Overview 
 
-    Mainly Used Columns
+    Mainly Used Columns:
     
-    booking_id, booking_date
+    .booking_id, booking_date
 
-    pickup_location, drop_location 
+    .pickup_location, drop_location 
 
-    vehicle_type, ride_distance 
+    .vehicle_type, ride_distance 
 	
-    booking_value, booking_status 
+    .booking_value, booking_status 
 
-    cancelled_rides_by_customer, cancelled_rides_by_driver 
+    .cancelled_rides_by_customer, cancelled_rides_by_driver 
 
  
 
