@@ -2,7 +2,8 @@ Rydan Bike Taxi - Data Analysis & Dashboard
 
 📌 Project Overview 
 
-This project analyses booking data from Rydan, a bike taxi service, to uncover business insights using SQL. The analysis covers customer behaviour, cancellation patterns, vehicle performance, and revenue trends. Key insights were visualized using Power BI dashboards to aid in business decisions such as loyalty programs, operational improvements, and revenue forecasting. 
+   This project analyses booking data from Rydan, a bike taxi service, to uncover business insights using SQL. The analysis covers customer behaviour, cancellation patterns, vehicle performance, and 
+   revenue trends. Key insights were visualized using Power BI dashboards to aid in business decisions such as loyalty programs, operational improvements, and revenue forecasting. 
 
  
 
