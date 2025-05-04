@@ -34,7 +34,7 @@ Rydan Bike Taxi - Data Analysis & Dashboard
 
  
 
-🔍 Business Questions & SQL Analysis | Link 
+🔍 Business Questions & SQL Analysis 
 
 	1.Customer Loyalty – Who are the most loyal customers (5+ bookings, 0 cancellations)? 
 
@@ -53,7 +53,7 @@ Rydan Bike Taxi - Data Analysis & Dashboard
 
  
 
-📊 Dashboard Overview | Link 
+📊 Dashboard Overview
 
 	📈 Revenue trends (daily, cumulative) 
 
