@@ -27,11 +27,11 @@ Rydan Bike Taxi - Data Analysis & Dashboard
 
     pickup_location, drop_location 
 
-	  vehicle_type, ride_distance 
+    vehicle_type, ride_distance 
 	
-	  booking_value, booking_status 
+    booking_value, booking_status 
 
-	  cancelled_rides_by_customer, cancelled_rides_by_driver 
+    cancelled_rides_by_customer, cancelled_rides_by_driver 
 
  
 
